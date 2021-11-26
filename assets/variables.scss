@@ -1,0 +1,10 @@
+@import './fonts.scss';
+
+$heading-font-family: 'Lora', sans-serif;
+$body-font-family: 'DM Mono', sans-serif;
+$btn-text-transform: none;
+$breadcrumbs-padding: 0px 0px !important;
+
+.cursor-pointer:hover {
+  cursor: pointer;
+}

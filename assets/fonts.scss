@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'Lora';
+  font-weight: 700;
+  src: url('/fonts/lora-700.woff2') format('woff2'),
+    url('/fonts/lora-700.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'DM Mono';
+  font-weight: 400;
+  src: url('/fonts/dm-mono.woff2') format('woff2'),
+    url('/fonts/dm-mono.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'DM Mono';
+  font-weight: 400;
+  font-style: italic;
+  src: url('/fonts/dm-mono-italic.woff2') format('woff2'),
+    url('/fonts/dm-mono-italic.woff') format('woff');
+}
